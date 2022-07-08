@@ -11,7 +11,8 @@ body{
 	font-size: 12px;
 
  
-    background: url(./fsa.jpg) no-repeat center center fixed; 
+    background:url(../Data/fsa.jpg) no-repeat center center fixed;
+    background-size:cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
