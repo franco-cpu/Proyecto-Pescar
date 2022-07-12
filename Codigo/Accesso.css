@@ -1,0 +1,35 @@
+body {
+
+ background-color: #252F53;
+ margin: 0;
+ padding: 0;
+
+}
+
+
+header {
+
+  display: flex;
+
+  background-color: #CECCCC;
+
+  width: cover;
+  padding: 40px 100px;
+  
+  
+}    
+
+
+.Bloque_Izq {
+
+ display: flex;
+ flex-direction: column;
+ height: 100vh;
+ width: 250px;
+ background-color: #CECCCC;
+
+
+}
+ 
+
+ 
